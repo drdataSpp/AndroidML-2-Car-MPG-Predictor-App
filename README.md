@@ -1,1 +1,1 @@
-# AndroidML-2-Car-MPG-Predictor-App
+# Android AI App to predict the MPG of a car
